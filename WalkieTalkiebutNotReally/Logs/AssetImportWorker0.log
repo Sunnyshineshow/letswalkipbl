@@ -1,0 +1,1574 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16151 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Documents/Unity Project/Collab Files/WalkieTalkiebutNotReally
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65430
+Successfully changed project path to: D:/Documents/Unity Project/Collab Files/WalkieTalkiebutNotReally
+D:/Documents/Unity Project/Collab Files/WalkieTalkiebutNotReally
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documents/Unity Project/Collab Files/WalkieTalkiebutNotReally/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX230 (ID=0x1d11)
+    Vendor:   
+    VRAM:     4028 MB
+    Driver:   30.0.15.1277
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56732
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002780 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 24.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.146 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002196 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.844 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1106 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1572.
+Total: 2.504500 ms (FindLiveObjects: 0.213500 ms CreateObjectMapping: 0.105000 ms MarkObjects: 2.054200 ms  DeleteObjects: 0.129400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GoogleMaps/Resources
+  artifactKey: Guid(7b703211ace0e3c4496ed3cbd7be157a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Resources using Guid(7b703211ace0e3c4496ed3cbd7be157a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67da343c457aabc0996adaa0bf68a9d7') in 0.008890 seconds
+  Import took 0.012490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/GoogleMaps/Scripts
+  artifactKey: Guid(87a313d7dcb0a814796dc032804a1547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Scripts using Guid(87a313d7dcb0a814796dc032804a1547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31aeebfe9dbdd7b1cdb34c99db9bfa43') in 0.003675 seconds
+  Import took 0.006144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/GoogleMaps
+  artifactKey: Guid(7f983fc8af15fac4aa6f709d737f517c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps using Guid(7f983fc8af15fac4aa6f709d737f517c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'facd54860a035c68c596c50ddab92da6') in 0.007625 seconds
+  Import took 0.010512 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 1.031930 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.584 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.4 MB.
+System memory in use after: 62.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1669.
+Total: 8.009400 ms (FindLiveObjects: 1.114400 ms CreateObjectMapping: 0.220800 ms MarkObjects: 2.097000 ms  DeleteObjects: 4.569800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.025202 seconds.
+  path: Assets/GoogleMaps/Examples
+  artifactKey: Guid(039e8f1f0236bce4aacdbb1fa45efb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples using Guid(039e8f1f0236bce4aacdbb1fa45efb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9eb4933c41489ab0c582aca4865adc0') in 0.006590 seconds
+  Import took 0.009527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.843682 seconds.
+  path: Assets/GoogleMaps/Examples/01_GettingStarted
+  artifactKey: Guid(2f28c4752fa31fc40b2049c764978c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/01_GettingStarted using Guid(2f28c4752fa31fc40b2049c764978c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d7e900c9b5422fc3f2bd978a8f0224f') in 0.002951 seconds
+  Import took 0.004829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.945616 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals
+  artifactKey: Guid(02dff44fc5e19e24ea8f8dafacaadd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals using Guid(02dff44fc5e19e24ea8f8dafacaadd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f34197f116feb370879cd855c35350') in 0.002153 seconds
+  Import took 0.004511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.095841 seconds.
+  path: Assets/GoogleMaps/Examples/01_GettingStarted/HelloWorld.unity
+  artifactKey: Guid(219fc20f344ac44c19a4694de15c2eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/01_GettingStarted/HelloWorld.unity using Guid(219fc20f344ac44c19a4694de15c2eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59ba1b7c859559e6c82dc47001dd1ef') in 0.008518 seconds
+  Import took 0.010468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.299568 seconds.
+  path: Assets/GoogleMaps/Examples/01_GettingStarted/Scripts
+  artifactKey: Guid(f26fe15cacadc264587cd20c2cf6b1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/01_GettingStarted/Scripts using Guid(f26fe15cacadc264587cd20c2cf6b1d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fda8245467bc438736527be510904857') in 0.002556 seconds
+  Import took 0.005039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.657186 seconds.
+  path: Assets/GoogleMaps/Examples/01_GettingStarted/Scripts/BasicExample.cs
+  artifactKey: Guid(7d998febeff6e423baf0d081cd85e448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/01_GettingStarted/Scripts/BasicExample.cs using Guid(7d998febeff6e423baf0d081cd85e448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa0bf890b5ee08ec4f41c256a80b812c') in 0.034332 seconds
+  Import took 0.036139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001019 seconds.
+  path: Assets/GoogleMaps/Examples/01_GettingStarted/Scripts/BasicExample.cs
+  artifactKey: Guid(7d998febeff6e423baf0d081cd85e448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/01_GettingStarted/Scripts/BasicExample.cs using Guid(7d998febeff6e423baf0d081cd85e448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa0bf890b5ee08ec4f41c256a80b812c') in 0.001792 seconds
+  Import took 0.003950 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.502 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.6 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1671.
+Total: 26.088400 ms (FindLiveObjects: 1.083900 ms CreateObjectMapping: 0.379200 ms MarkObjects: 7.061300 ms  DeleteObjects: 17.556000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016525 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.532 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.8 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1673.
+Total: 6.516100 ms (FindLiveObjects: 0.251200 ms CreateObjectMapping: 0.107600 ms MarkObjects: 2.136900 ms  DeleteObjects: 4.018000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 468.761407 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/MapsService101.unity
+  artifactKey: Guid(0d0aa05c29b584f2290e6ad8de54df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/MapsService101.unity using Guid(0d0aa05c29b584f2290e6ad8de54df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e25e46516afdee5d9f5f87f5e71b9a48') in 0.022497 seconds
+  Import took 0.026486 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.315 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 63.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1675.
+Total: 11.301900 ms (FindLiveObjects: 0.345800 ms CreateObjectMapping: 0.134500 ms MarkObjects: 3.154800 ms  DeleteObjects: 7.664200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011645 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.977 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.2 MB.
+System memory in use after: 63.4 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1677.
+Total: 9.698100 ms (FindLiveObjects: 0.429800 ms CreateObjectMapping: 0.096200 ms MarkObjects: 2.505500 ms  DeleteObjects: 6.662700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002217 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.3 MB.
+System memory in use after: 63.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1679.
+Total: 4.943800 ms (FindLiveObjects: 0.209000 ms CreateObjectMapping: 0.066900 ms MarkObjects: 1.465000 ms  DeleteObjects: 3.201400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.194 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 63.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 8.409500 ms (FindLiveObjects: 0.216000 ms CreateObjectMapping: 0.070800 ms MarkObjects: 2.685800 ms  DeleteObjects: 5.434500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006017 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.7 MB.
+System memory in use after: 63.9 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1683.
+Total: 5.837600 ms (FindLiveObjects: 0.162700 ms CreateObjectMapping: 0.065200 ms MarkObjects: 1.642300 ms  DeleteObjects: 3.964700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011768 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.114 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.8 MB.
+System memory in use after: 64.1 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1685.
+Total: 14.240500 ms (FindLiveObjects: 0.670400 ms CreateObjectMapping: 0.269900 ms MarkObjects: 5.320200 ms  DeleteObjects: 7.973700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016101 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.997 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.0 MB.
+System memory in use after: 64.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1687.
+Total: 17.129300 ms (FindLiveObjects: 0.325500 ms CreateObjectMapping: 0.093400 ms MarkObjects: 5.562600 ms  DeleteObjects: 11.135100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 687.195832 seconds.
+  path: Assets/GoogleMaps/Examples/SharedAssets
+  artifactKey: Guid(2c223ed90fbacff49b1ae020887c0776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/SharedAssets using Guid(2c223ed90fbacff49b1ae020887c0776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f9d28ccf75e5c0b0c450495c14ee7e') in 0.008954 seconds
+  Import took 0.013309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.363279 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced
+  artifactKey: Guid(401ae6e0f87789b4998f351cb44aa401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced using Guid(401ae6e0f87789b4998f351cb44aa401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a36dffe03638b8ed82550da2f0b30f') in 0.004148 seconds
+  Import took 0.008042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.386302 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/MoreStyling
+  artifactKey: Guid(def3bc215323991479174f9498397df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/MoreStyling using Guid(def3bc215323991479174f9498397df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5059689081176008ffafb586cd064d31') in 0.002804 seconds
+  Import took 0.006044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.410497 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/MixedZoom
+  artifactKey: Guid(cf935d2c69c27f540a9857090725b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/MixedZoom using Guid(cf935d2c69c27f540a9857090725b5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd87804f1ea07e97e08b54a4612178d8') in 0.004536 seconds
+  Import took 0.008227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.360167 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Intersections
+  artifactKey: Guid(65af1bca89615e3408a19af08aa65e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Intersections using Guid(65af1bca89615e3408a19af08aa65e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d1558ffe68f329d71b45dbaa36b5c0') in 0.004363 seconds
+  Import took 0.007919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.327029 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/EditTimePreview
+  artifactKey: Guid(87c51d676d5952d42a17edbd3da3e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/EditTimePreview using Guid(87c51d676d5952d42a17edbd3da3e2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '877e0259343ab2bb3d0d44910b3a23bc') in 0.004601 seconds
+  Import took 0.008381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.623416 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Fencing
+  artifactKey: Guid(a80e484d003e4c241b835b8c82b7bd5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Fencing using Guid(a80e484d003e4c241b835b8c82b7bd5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8eaf121d6cb3b7b971474e7a3f67aa4') in 0.005278 seconds
+  Import took 0.009829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.172729 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Terrain
+  artifactKey: Guid(a1a8184a676e41744bcea53a2241b4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Terrain using Guid(a1a8184a676e41744bcea53a2241b4ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f83cb54d576da834735f2eae1ce117') in 0.004338 seconds
+  Import took 0.008181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.797776 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous
+  artifactKey: Guid(c7e8c82872582e7499ecde26840e2c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous using Guid(c7e8c82872582e7499ecde26840e2c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a839ee33986fbe4de1f0b17ab645d0') in 0.003310 seconds
+  Import took 0.005992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.368644 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/RoadLattice
+  artifactKey: Guid(6d5861755b6614c4690265b13f25985e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/RoadLattice using Guid(6d5861755b6614c4690265b13f25985e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf9b3ce51676034362e027a1e0ba66e') in 0.008853 seconds
+  Import took 0.011794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001142 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/RoadLattice
+  artifactKey: Guid(6d5861755b6614c4690265b13f25985e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/RoadLattice using Guid(6d5861755b6614c4690265b13f25985e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf9b3ce51676034362e027a1e0ba66e') in 0.003826 seconds
+  Import took 0.007241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.615789 seconds.
+  path: Assets/GoogleMaps/Examples/03_MapsStyling
+  artifactKey: Guid(32ba9312297f39141abbc86382c023b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/03_MapsStyling using Guid(32ba9312297f39141abbc86382c023b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae90943a6f5eec611e0206dd8555c4b') in 0.003713 seconds
+  Import took 0.007045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.640964 seconds.
+  path: Assets/GoogleMaps/Examples/03_MapsStyling/Models
+  artifactKey: Guid(2a59645101404744a971536d5fa002bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/03_MapsStyling/Models using Guid(2a59645101404744a971536d5fa002bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0966d21f4ca9aa45c85835ab8bbf6757') in 0.004513 seconds
+  Import took 0.006774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.472877 seconds.
+  path: Assets/GoogleMaps/Examples/03_MapsStyling/Scripts
+  artifactKey: Guid(7c98577363aa9184194ce8eb2b67127e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/03_MapsStyling/Scripts using Guid(7c98577363aa9184194ce8eb2b67127e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48eaec1450a21d1027b19b06f4597b26') in 0.005124 seconds
+  Import took 0.009052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.766180 seconds.
+  path: Assets/GoogleMaps/Examples/03_MapsStyling/Materials
+  artifactKey: Guid(aa69ec394a8efe340a2d04e9c5aa5b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/03_MapsStyling/Materials using Guid(aa69ec394a8efe340a2d04e9c5aa5b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16c7af58ba2f368478aec47a6d64fd13') in 0.005259 seconds
+  Import took 0.008328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.134757 seconds.
+  path: Assets/GoogleMaps/Examples/03_MapsStyling/StylingMaps101.unity
+  artifactKey: Guid(fa3f410a43db64ed297bd670481620d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/03_MapsStyling/StylingMaps101.unity using Guid(fa3f410a43db64ed297bd670481620d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9358ffcaaf8f615415515d40a3be544f') in 0.012865 seconds
+  Import took 0.016357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001303 seconds.
+  path: Assets/GoogleMaps/Examples/03_MapsStyling/StylingMaps101.unity
+  artifactKey: Guid(fa3f410a43db64ed297bd670481620d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/03_MapsStyling/StylingMaps101.unity using Guid(fa3f410a43db64ed297bd670481620d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9358ffcaaf8f615415515d40a3be544f') in 0.005263 seconds
+  Import took 0.008407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.598707 seconds.
+  path: Assets/GoogleMaps/Examples/03_MapsStyling/Models/Props_Tree_Stripes_Pink.fbx
+  artifactKey: Guid(1e81db134e7a04b839bbfc6d5c169ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/03_MapsStyling/Models/Props_Tree_Stripes_Pink.fbx using Guid(1e81db134e7a04b839bbfc6d5c169ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f52f54fd534c87e7155b14462c7945') in 0.873267 seconds
+  Import took 0.878259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.593516 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/MapsService101.unity
+  artifactKey: Guid(0d0aa05c29b584f2290e6ad8de54df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/MapsService101.unity using Guid(0d0aa05c29b584f2290e6ad8de54df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140842f5ee35c129f339f72d759f424f') in 0.003355 seconds
+  Import took 0.006425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/MapsService101.unity
+  artifactKey: Guid(0d0aa05c29b584f2290e6ad8de54df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/MapsService101.unity using Guid(0d0aa05c29b584f2290e6ad8de54df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140842f5ee35c129f339f72d759f424f') in 0.004234 seconds
+  Import took 0.008261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.278894 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Textures
+  artifactKey: Guid(62c6fa72874345742afbef7c3339cb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Textures using Guid(62c6fa72874345742afbef7c3339cb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb7d8935142ae624478b88160ea9b94') in 0.078760 seconds
+  Import took 0.082685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.359444 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Prefabs
+  artifactKey: Guid(b257da8b4e7f4be409cec5e8f33d2eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Prefabs using Guid(b257da8b4e7f4be409cec5e8f33d2eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd16d3daa80c48e289eaf9300fc2992f') in 0.004977 seconds
+  Import took 0.008980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001160 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Prefabs
+  artifactKey: Guid(b257da8b4e7f4be409cec5e8f33d2eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Prefabs using Guid(b257da8b4e7f4be409cec5e8f33d2eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd16d3daa80c48e289eaf9300fc2992f') in 0.004025 seconds
+  Import took 0.007653 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005205 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.855 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1699.
+Total: 12.924300 ms (FindLiveObjects: 0.249700 ms CreateObjectMapping: 0.104000 ms MarkObjects: 3.578400 ms  DeleteObjects: 8.988500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.849809 seconds.
+  path: Assets/Scenes/Sample Customize
+  artifactKey: Guid(53d26857d081a124bb1f0008653708b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sample Customize using Guid(53d26857d081a124bb1f0008653708b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b20b932fd2dbaa0dd5592d7cd34818b') in 0.009755 seconds
+  Import took 0.015785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.647077 seconds.
+  path: Assets/Scenes/SampleCustomize
+  artifactKey: Guid(53d26857d081a124bb1f0008653708b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleCustomize using Guid(53d26857d081a124bb1f0008653708b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15eebe084abe66661ba5db55fa104181') in 0.003770 seconds
+  Import took 0.006802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.159610 seconds.
+  path: Assets/GoogleMaps/Plugins
+  artifactKey: Guid(60d591bbd731fd1438d0bdba1542d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Plugins using Guid(60d591bbd731fd1438d0bdba1542d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3b29430a62b84b0c7fd5482047cb5d') in 0.003530 seconds
+  Import took 0.006144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000993 seconds.
+  path: Assets/GoogleMaps/Plugins
+  artifactKey: Guid(60d591bbd731fd1438d0bdba1542d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Plugins using Guid(60d591bbd731fd1438d0bdba1542d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3b29430a62b84b0c7fd5482047cb5d') in 0.003203 seconds
+  Import took 0.007328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.401665 seconds.
+  path: Assets/Scenes/SampleCustomize/FunExam
+  artifactKey: Guid(28a1293df3feba24cb43d67f5c6bcb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleCustomize/FunExam using Guid(28a1293df3feba24cb43d67f5c6bcb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5357199372d3b8292ee1b3a17daa6753') in 0.008601 seconds
+  Import took 0.011082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.153800 seconds.
+  path: Assets/Scenes/SampleCustomize/FunExam/MapsService101.unity
+  artifactKey: Guid(23ecb0bacfab93e4ea802cd011f857bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleCustomize/FunExam/MapsService101.unity using Guid(23ecb0bacfab93e4ea802cd011f857bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec6db0257956a1396fd367d3a139ae0') in 0.009013 seconds
+  Import took 0.011593 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.500 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.9 MB.
+System memory in use after: 67.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1701.
+Total: 6.124400 ms (FindLiveObjects: 0.271300 ms CreateObjectMapping: 0.088200 ms MarkObjects: 1.982000 ms  DeleteObjects: 3.780600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008977 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.581 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 67.4 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1703.
+Total: 21.246000 ms (FindLiveObjects: 1.079900 ms CreateObjectMapping: 0.343900 ms MarkObjects: 5.479300 ms  DeleteObjects: 14.336400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.211 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.3 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1705.
+Total: 9.932500 ms (FindLiveObjects: 0.337600 ms CreateObjectMapping: 0.138800 ms MarkObjects: 2.886800 ms  DeleteObjects: 6.564700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012160 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.820 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1707.
+Total: 15.971500 ms (FindLiveObjects: 0.758100 ms CreateObjectMapping: 0.228200 ms MarkObjects: 5.701000 ms  DeleteObjects: 9.276300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1183.063467 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts
+  artifactKey: Guid(9ebb23135542d58429dff6cb7e883ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts using Guid(9ebb23135542d58429dff6cb7e883ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f16183a76a3e89e1f500b27af1453c08') in 0.008104 seconds
+  Import took 0.011715 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004372 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.498 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.7 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1710.
+Total: 7.358100 ms (FindLiveObjects: 0.150700 ms CreateObjectMapping: 0.039100 ms MarkObjects: 1.809700 ms  DeleteObjects: 5.356200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.322462 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(0f8ea83dcba32ef4c85ee0e9ee6a4f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/NewBehaviourScript.cs using Guid(0f8ea83dcba32ef4c85ee0e9ee6a4f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c10ed497026c95e1ffb913651c49406') in 0.012422 seconds
+  Import took 0.015216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.145656 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/FollowPlayer.cs
+  artifactKey: Guid(0f8ea83dcba32ef4c85ee0e9ee6a4f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/FollowPlayer.cs using Guid(0f8ea83dcba32ef4c85ee0e9ee6a4f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77c05e98e6b8f8646c20ee01ca8be0c') in 0.004470 seconds
+  Import took 0.008505 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003977 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.683 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.9 MB.
+System memory in use after: 67.2 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1712.
+Total: 7.542400 ms (FindLiveObjects: 0.154200 ms CreateObjectMapping: 0.049900 ms MarkObjects: 1.588700 ms  DeleteObjects: 5.747000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004836 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.591 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 67.4 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1714.
+Total: 10.319200 ms (FindLiveObjects: 0.349600 ms CreateObjectMapping: 0.096700 ms MarkObjects: 2.247700 ms  DeleteObjects: 7.622700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.812583 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/FollowPlayer.cs
+  artifactKey: Guid(0f8ea83dcba32ef4c85ee0e9ee6a4f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/FollowPlayer.cs using Guid(0f8ea83dcba32ef4c85ee0e9ee6a4f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a8a977944e611c198f4de4b1d3e32a2') in 0.006099 seconds
+  Import took 0.009361 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006312 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.840 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.3 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1716.
+Total: 9.693900 ms (FindLiveObjects: 0.432200 ms CreateObjectMapping: 0.097800 ms MarkObjects: 2.684500 ms  DeleteObjects: 6.476700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002453 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.789 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1718.
+Total: 4.716400 ms (FindLiveObjects: 0.221200 ms CreateObjectMapping: 0.056900 ms MarkObjects: 1.314900 ms  DeleteObjects: 3.121200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012417 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.402 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.7 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1720.
+Total: 9.535900 ms (FindLiveObjects: 0.508200 ms CreateObjectMapping: 0.116900 ms MarkObjects: 2.592600 ms  DeleteObjects: 6.313800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1169.207818 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Movable.cs
+  artifactKey: Guid(2152b134a684f11448867d82dce7f672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Movable.cs using Guid(2152b134a684f11448867d82dce7f672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46cd00d1e1bcda22fd6528f48ad1c9e4') in 0.009792 seconds
+  Import took 0.013638 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.178 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1206 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.8 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1723.
+Total: 17.167600 ms (FindLiveObjects: 4.100800 ms CreateObjectMapping: 0.123800 ms MarkObjects: 4.567100 ms  DeleteObjects: 8.372400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.211366 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Utils
+  artifactKey: Guid(b884393ddaaf0ca43a52d2c38909a902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Utils using Guid(b884393ddaaf0ca43a52d2c38909a902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648e7dde598cd56cf13e4d8d54ffe589') in 0.008257 seconds
+  Import took 0.013133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters
+  artifactKey: Guid(ebb71cad6295e26408201c8e0bf59396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters using Guid(ebb71cad6295e26408201c8e0bf59396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef51e8225a6767cbc87ea7bb4ab34aa') in 0.004377 seconds
+  Import took 0.009823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181135 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/BaseMapLoader.cs
+  artifactKey: Guid(a89762e09fda84f348f9f1242a2760e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/BaseMapLoader.cs using Guid(a89762e09fda84f348f9f1242a2760e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfe52136594a56cb327f9d35f288e9f') in 0.005160 seconds
+  Import took 0.008701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006853 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/BaseMapLoader.cs
+  artifactKey: Guid(a89762e09fda84f348f9f1242a2760e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/BaseMapLoader.cs using Guid(a89762e09fda84f348f9f1242a2760e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfe52136594a56cb327f9d35f288e9f') in 0.003188 seconds
+  Import took 0.006862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.575938 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/UI
+  artifactKey: Guid(d71de5bf6d7306b45ad2c9e76a67b8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/UI using Guid(d71de5bf6d7306b45ad2c9e76a67b8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b1fa9e28349c755a400a4a309458d9') in 0.002343 seconds
+  Import took 0.004571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.639023 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/BuildingLabelsCreator.cs
+  artifactKey: Guid(c9e5fe175e19249658c057a1ccd681fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/BuildingLabelsCreator.cs using Guid(c9e5fe175e19249658c057a1ccd681fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '043c36edebafb784696d9888035946fe') in 0.004540 seconds
+  Import took 0.008016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.018933 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/SearchByPlaceIdUpdater.cs
+  artifactKey: Guid(8bde75262351f4be0a1ba7ea25d245e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/SearchByPlaceIdUpdater.cs using Guid(8bde75262351f4be0a1ba7ea25d245e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d39b07c89e48ec3a76cfcd8e670eb8') in 0.060025 seconds
+  Import took 0.076075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.713612 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/RoadLabelsCreator.cs
+  artifactKey: Guid(7d58513cf8b134b0cabb738f7a6a388b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/RoadLabelsCreator.cs using Guid(7d58513cf8b134b0cabb738f7a6a388b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b64f4d4c5077b45de0fda9406ece84') in 0.088433 seconds
+  Import took 0.114573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.309253 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/RoadLabelMover.cs
+  artifactKey: Guid(d05a8e99bec89437293e65cf51de8330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/RoadLabelMover.cs using Guid(d05a8e99bec89437293e65cf51de8330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5c6afb2db9ed87e57103a1b1f40b4fb') in 0.019198 seconds
+  Import took 0.028815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.527030 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/ProgressBarUpdater.cs
+  artifactKey: Guid(ef90157e3eaff465ebcab53ef1a37527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/ProgressBarUpdater.cs using Guid(ef90157e3eaff465ebcab53ef1a37527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9db9e02f7c15bf110ec62375550e14') in 0.007167 seconds
+  Import took 0.012640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.221212 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/MapLabeller.cs
+  artifactKey: Guid(a214463afdf5d411a986599a2989ec4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/MapLabeller.cs using Guid(a214463afdf5d411a986599a2989ec4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe2e50a9945da273f15df9d1259d825') in 0.019808 seconds
+  Import took 0.045972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008136 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/MapLabeller.cs
+  artifactKey: Guid(a214463afdf5d411a986599a2989ec4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/MapLabeller.cs using Guid(a214463afdf5d411a986599a2989ec4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe2e50a9945da273f15df9d1259d825') in 0.017116 seconds
+  Import took 0.025336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.580268 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/MapFeaturesController.cs
+  artifactKey: Guid(f9a5802cf30064be08c1ad8e703673e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/MapFeaturesController.cs using Guid(f9a5802cf30064be08c1ad8e703673e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbdb108f921379bee281cce396357ab0') in 0.013722 seconds
+  Import took 0.019840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.505589 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/DynamicMapsUpdater.cs
+  artifactKey: Guid(e2d3c60a68bb54c3ba1bef21b4492e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Updaters/DynamicMapsUpdater.cs using Guid(e2d3c60a68bb54c3ba1bef21b4492e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2daac6618966908f0b2ecbfe7dfd8f47') in 0.011858 seconds
+  Import took 0.021705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.642529 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Utils/ListenToDestroy.cs
+  artifactKey: Guid(bbd4f02b90eb143ed97208e10d125c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Utils/ListenToDestroy.cs using Guid(bbd4f02b90eb143ed97208e10d125c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a6ffcb5234290f1c5aef78da404b67') in 0.006864 seconds
+  Import took 0.014925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.267119 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Utils/MapsGamingExamplesUtils.cs
+  artifactKey: Guid(ca017010185104057a5aed193de78a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/Utils/MapsGamingExamplesUtils.cs using Guid(ca017010185104057a5aed193de78a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81fba1de832d6b279aa83d03540abd38') in 0.014171 seconds
+  Import took 0.020589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.318480 seconds.
+  path: Assets/GoogleMaps/Examples/SharedAssets/Scripts/CameraController.cs
+  artifactKey: Guid(344ebe44db4d14b70994f3c80b72fa96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/SharedAssets/Scripts/CameraController.cs using Guid(344ebe44db4d14b70994f3c80b72fa96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c941a39f3e9eec296ad060d3688824c8') in 0.024991 seconds
+  Import took 0.040562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.819601 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Terrain/Materials/PaintControlTexture.mat
+  artifactKey: Guid(8093b9816ff614ce9bc081a3d0629ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Terrain/Materials/PaintControlTexture.mat using Guid(8093b9816ff614ce9bc081a3d0629ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '675d876a91bfa9674d4caf5e11432072') in 0.137026 seconds
+  Import took 0.141091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/GoogleMaps/Examples/03_MapsStyling/Prefabs/TabsController.prefab
+  artifactKey: Guid(270cdbe376bbc49eda16e8cff93dbd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/03_MapsStyling/Prefabs/TabsController.prefab using Guid(270cdbe376bbc49eda16e8cff93dbd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ff29dbb5653cee37e0a9d3c3dc9c62') in 0.049375 seconds
+  Import took 0.052909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.171387 seconds.
+  path: Assets/GoogleMaps/Examples/SharedAssets/Scripts/JoystickController.cs
+  artifactKey: Guid(915f4e653dd854ebaa458024b3e96eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/SharedAssets/Scripts/JoystickController.cs using Guid(915f4e653dd854ebaa458024b3e96eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d507c29fd47101ac926cc8ffd70c80') in 0.002443 seconds
+  Import took 0.004295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004482 seconds.
+  path: Assets/GoogleMaps/Examples/SharedAssets/Scripts/JoystickController.cs
+  artifactKey: Guid(915f4e653dd854ebaa458024b3e96eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/SharedAssets/Scripts/JoystickController.cs using Guid(915f4e653dd854ebaa458024b3e96eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d507c29fd47101ac926cc8ffd70c80') in 0.002480 seconds
+  Import took 0.004920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.623522 seconds.
+  path: Assets/GoogleMaps/Examples/SharedAssets/Scripts/GyroController.cs
+  artifactKey: Guid(d6a123e67afff44b1bdaea6f287e5e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/SharedAssets/Scripts/GyroController.cs using Guid(d6a123e67afff44b1bdaea6f287e5e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d088a8132ca8ac2658cf02e4ded5d2') in 0.003638 seconds
+  Import took 0.006844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.700214 seconds.
+  path: Assets/GoogleMaps/Examples/SharedAssets/Scripts/PanelAnimationController.cs
+  artifactKey: Guid(d1e4889a28cdd4f548872debee6da86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/SharedAssets/Scripts/PanelAnimationController.cs using Guid(d1e4889a28cdd4f548872debee6da86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e73f43d55d9ce3698546d7bda1765f8') in 0.003920 seconds
+  Import took 0.007396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002559 seconds.
+  path: Assets/GoogleMaps/Examples/SharedAssets/Scripts/PanelAnimationController.cs
+  artifactKey: Guid(d1e4889a28cdd4f548872debee6da86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/SharedAssets/Scripts/PanelAnimationController.cs using Guid(d1e4889a28cdd4f548872debee6da86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e73f43d55d9ce3698546d7bda1765f8') in 0.002467 seconds
+  Import took 0.005259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.660143 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Fencing/Scripts/TargetMovementController.cs
+  artifactKey: Guid(3ecc15d41c5b47908058df93ccc9e975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Fencing/Scripts/TargetMovementController.cs using Guid(3ecc15d41c5b47908058df93ccc9e975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228b363521dc56c62977d23b10afa02a') in 0.002885 seconds
+  Import took 0.005806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.043819 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/SunAndMoonController.cs
+  artifactKey: Guid(b020cdbf9742c4cb1bc7dbda456bc6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/SunAndMoonController.cs using Guid(b020cdbf9742c4cb1bc7dbda456bc6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1791c2202ac88a5c1fb3273a52d07c4d') in 0.003599 seconds
+  Import took 0.006377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.512706 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/MixedZoom/Scripts/SteeringController.cs
+  artifactKey: Guid(82d52e526f264456ab7c7a6879f54411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/MixedZoom/Scripts/SteeringController.cs using Guid(82d52e526f264456ab7c7a6879f54411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4915c553360f8017970a622078d19c') in 0.004226 seconds
+  Import took 0.007002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.659545 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/SliderController.cs
+  artifactKey: Guid(58ae8f592e0ce4cddb1734c8ae59b850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/SliderController.cs using Guid(58ae8f592e0ce4cddb1734c8ae59b850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4539f97a1149c7e1b01a938000faa8c') in 0.003817 seconds
+  Import took 0.007917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.726416 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Fencing/Scripts/FollowCameraController.cs
+  artifactKey: Guid(6ada8e4800224bdabbf97ab3c082aa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Fencing/Scripts/FollowCameraController.cs using Guid(6ada8e4800224bdabbf97ab3c082aa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91eeb05982878c29a0bd132afe03058') in 0.008561 seconds
+  Import took 0.011145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.348657 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/EmissionController.cs
+  artifactKey: Guid(ee9556d5046d4fe1972a5601bf6929e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/EmissionController.cs using Guid(ee9556d5046d4fe1972a5601bf6929e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28742f009858401161581525666d2485') in 0.004455 seconds
+  Import took 0.007299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000589 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/EmissionController.cs
+  artifactKey: Guid(ee9556d5046d4fe1972a5601bf6929e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/Miscellaneous/Scripts/EmissionController.cs using Guid(ee9556d5046d4fe1972a5601bf6929e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28742f009858401161581525666d2485') in 0.002577 seconds
+  Import took 0.005316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.377062 seconds.
+  path: Assets/GoogleMaps/Examples/04_Advanced/RoadLattice/Scripts/CameraRigController.cs
+  artifactKey: Guid(a59a2e607043c4bd190b8a4465be307e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/04_Advanced/RoadLattice/Scripts/CameraRigController.cs using Guid(a59a2e607043c4bd190b8a4465be307e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87855d1f86be6922f3f5484bd754e953') in 0.003902 seconds
+  Import took 0.006634 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005576 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.508 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1206 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.4 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1762.
+Total: 10.724600 ms (FindLiveObjects: 0.168800 ms CreateObjectMapping: 0.040800 ms MarkObjects: 1.620800 ms  DeleteObjects: 8.892400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.419 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1204 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1763.
+Total: 10.018900 ms (FindLiveObjects: 0.354300 ms CreateObjectMapping: 0.134400 ms MarkObjects: 1.687000 ms  DeleteObjects: 7.840300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.088488 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/PlayerController.cs
+  artifactKey: Guid(9ffda12177ea1114a8c0eabd56239533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/PlayerController.cs using Guid(9ffda12177ea1114a8c0eabd56239533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993568db823f2093c995913174ad3d41') in 0.006302 seconds
+  Import took 0.008711 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004355 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.7 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1766.
+Total: 9.404200 ms (FindLiveObjects: 0.210800 ms CreateObjectMapping: 0.117500 ms MarkObjects: 2.980800 ms  DeleteObjects: 6.092400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006149 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.526 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.9 MB.
+System memory in use after: 68.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1768.
+Total: 7.861200 ms (FindLiveObjects: 0.274000 ms CreateObjectMapping: 0.088300 ms MarkObjects: 1.602900 ms  DeleteObjects: 5.893600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.786596 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/PlayerController.cs
+  artifactKey: Guid(9ffda12177ea1114a8c0eabd56239533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/PlayerController.cs using Guid(9ffda12177ea1114a8c0eabd56239533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d667f2079c39deaf157ef09c33c891a') in 0.006935 seconds
+  Import took 0.010578 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.838 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.0 MB.
+System memory in use after: 68.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1770.
+Total: 7.443500 ms (FindLiveObjects: 0.165800 ms CreateObjectMapping: 0.049000 ms MarkObjects: 1.476900 ms  DeleteObjects: 5.750200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.720912 seconds.
+  path: Assets/GoogleMaps/Examples/URPExample
+  artifactKey: Guid(5d6c17e4ea96c004b8a28f9f209eb609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/URPExample using Guid(5d6c17e4ea96c004b8a28f9f209eb609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf704a757eb89c1d42af6b898344fd2') in 0.008590 seconds
+  Import took 0.012052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.654383 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/MapsService101.unity
+  artifactKey: Guid(0d0aa05c29b584f2290e6ad8de54df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/MapsService101.unity using Guid(0d0aa05c29b584f2290e6ad8de54df72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663a26c6d258b78edda8f00cc9e548b6') in 0.012224 seconds
+  Import took 0.016628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.682573 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Textures/LabelDot.png
+  artifactKey: Guid(b907f38d49b9b4289b97c8c084cd79a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Textures/LabelDot.png using Guid(b907f38d49b9b4289b97c8c084cd79a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1a48e3151a5e467e54a6be3e97870a') in 0.084754 seconds
+  Import took 0.087533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Textures/Line.png
+  artifactKey: Guid(aae5a96d166b7426bbdcf32d40e305b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Textures/Line.png using Guid(aae5a96d166b7426bbdcf32d40e305b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44ba478c5bb5fd6078a9248736fc344e') in 0.023227 seconds
+  Import took 0.025311 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005198 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.482 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.3 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1781.
+Total: 14.287900 ms (FindLiveObjects: 0.286900 ms CreateObjectMapping: 0.112000 ms MarkObjects: 5.600600 ms  DeleteObjects: 8.285500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.394874 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/PlayerController.cs
+  artifactKey: Guid(9ffda12177ea1114a8c0eabd56239533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/PlayerController.cs using Guid(9ffda12177ea1114a8c0eabd56239533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5b30b879d05b7f5d45c31430709293') in 0.009522 seconds
+  Import took 0.014947 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1783.
+Total: 9.228500 ms (FindLiveObjects: 0.212900 ms CreateObjectMapping: 0.062000 ms MarkObjects: 2.463600 ms  DeleteObjects: 6.417800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011639 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.7 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1785.
+Total: 8.959000 ms (FindLiveObjects: 0.184700 ms CreateObjectMapping: 0.048400 ms MarkObjects: 3.547200 ms  DeleteObjects: 5.175400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005130 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.9 MB.
+System memory in use after: 68.2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1787.
+Total: 12.409600 ms (FindLiveObjects: 0.717100 ms CreateObjectMapping: 0.137300 ms MarkObjects: 3.854600 ms  DeleteObjects: 7.697300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 432.568230 seconds.
+  path: Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/PlayerController.cs
+  artifactKey: Guid(9ffda12177ea1114a8c0eabd56239533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleMaps/Examples/02_Fundamentals/Scripts/PlayerController.cs using Guid(9ffda12177ea1114a8c0eabd56239533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6accd4b25b06a848552bde8e6ac2cf4e') in 0.008373 seconds
+  Import took 0.012043 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006105 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.648 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.0 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1789.
+Total: 8.887200 ms (FindLiveObjects: 0.326600 ms CreateObjectMapping: 0.103700 ms MarkObjects: 2.200300 ms  DeleteObjects: 6.253600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005350 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.406 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.3 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1791.
+Total: 6.790300 ms (FindLiveObjects: 0.157000 ms CreateObjectMapping: 0.048000 ms MarkObjects: 1.413500 ms  DeleteObjects: 5.169100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015648 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.604 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1205 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1793.
+Total: 11.645600 ms (FindLiveObjects: 0.328400 ms CreateObjectMapping: 0.100700 ms MarkObjects: 3.503600 ms  DeleteObjects: 7.706700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
